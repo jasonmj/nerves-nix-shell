@@ -11,9 +11,9 @@ mkShell {
     erlangR24
     fwup
     git
-    lxqt.lxqt-openssh-askpass
     pkgs.beam.packages.erlangR24.elixir
     rebar3
     squashfsTools
+    x11_ssh_askpass
   ];
 }
